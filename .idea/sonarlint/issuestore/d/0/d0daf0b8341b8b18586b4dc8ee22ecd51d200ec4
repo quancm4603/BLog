@@ -1,0 +1,21 @@
+
+
+java:S1989"dHandle the following exceptions that could be thrown by "checkLogin": ServletException, IOException.(Í¢‰‘8ßÆª²´1
+~
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Õ„½8àÆª²´1
+\
+java:S1161":Add the "@Override" annotation above this method signature(ş³‚”ûÿÿÿÿ8áÆª²´1
+„
+java:S1989"bHandle the following exceptions that could be thrown by "getParts": IOException, ServletException.(Ğ½íÁúÿÿÿÿ8áÆª²´1
+n
+java:S1989""LHandle the following exception that could be thrown by "write": IOException.(İ»™§ıÿÿÿÿ8ãÆª²´1
+ƒ
+java:S1989%"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(È©ÏÚùÿÿÿÿ8ãÆª²´1
+c
+java:S10755"ARefactor your code to get this URI from a customizable parameter.(µĞäµÿÿÿÿÿ8åÆª²´1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8­É¬²´1
+L
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8­É¬²´1
+M
+java:S1128"+Remove this unused import 'java.util.UUID'.(ÀãÄ£úÿÿÿÿ8­É¬²´1

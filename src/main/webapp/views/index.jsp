@@ -16,9 +16,14 @@
 </head>
 <body>
     <%@include file="commons/header.jsp"%>
-<%--    <%@include file="commons/post.jsp"%>--%>
-    <div class="container" style="background-image: image('../images/cat.jpg')"></div>
-    <img src="images/character-banner-first.jpg" alt="dsad">
+
+
+    <div class="d-flex flex-column flex-md-row p-4 gap-4 py-md-5 align-items-center justify-content-center">
+        <div class="list-group">
+            <%@include file="commons/post-thumnail.jsp"%>
+        </div>
+    </div>
+
     <%@include file="commons/footer.jsp"%>
 </body>
 </html>

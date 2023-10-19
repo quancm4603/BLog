@@ -1,4 +1,4 @@
-package com.quancm.exaq.filter;
+package com.quancm.blog.filter;
 
 import javax.servlet.*;
 import javax.servlet.annotation.WebFilter;

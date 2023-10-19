@@ -1,0 +1,8 @@
+
+v
+java:S1450"YRemove the "latestPost" field and declare it as a local variable in the relevant methods.(Ü·›8¼×Ú°´1
+]	java:S125"<This block of commented-out lines of code should be removed.(ã¼Ô›øÿÿÿÿ8ğâé°´1
+~
+java:S1989)"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Ç§Å¿8Á×Ú°´1
+K
+java:S1068".Remove this unused "latestPost" private field.(Ü·›8Â×Ú°´1

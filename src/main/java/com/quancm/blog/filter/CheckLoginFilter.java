@@ -1,4 +1,4 @@
-package com.quancm.exaq.filter;
+package com.quancm.blog.filter;
 
 import javax.servlet.*;
 import javax.servlet.annotation.WebFilter;
@@ -8,7 +8,7 @@ import javax.servlet.http.HttpSession;
 import java.io.IOException;
 
 
-@WebFilter(urlPatterns = {"/view-profile"})
+@WebFilter(urlPatterns = {"/create-post"})
 public class CheckLoginFilter implements Filter {
     @Override
     public void init(FilterConfig filterConfig) throws ServletException {

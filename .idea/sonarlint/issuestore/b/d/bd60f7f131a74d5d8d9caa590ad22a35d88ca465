@@ -1,0 +1,11 @@
+
+k	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Äøúÿÿÿÿ
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¢¦¾Óÿÿÿÿÿ8ÖœÀ¯´1
+›
+java:S1130"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(Ş÷—˜úÿÿÿÿ8ßœÀ¯´1
+@	java:S106?"+Replace this use of System.err by a logger.(Îã­Ã
+E	java:S106@"+Replace this use of System.err by a logger.(íŠÚçüÿÿÿÿ
+E	java:S106A"+Replace this use of System.err by a logger.(×ãìüÿÿÿÿ
+E	java:S106B"+Replace this use of System.err by a logger.(îöÁÑøÿÿÿÿ
+@	java:S106E"+Replace this use of System.out by a logger.(†ÚÂà
